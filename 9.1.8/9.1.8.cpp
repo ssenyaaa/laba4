@@ -13,6 +13,8 @@
 #include <Windows.h>
 
 #define MAX_LOADSTRING 100
+//printf
+//skanf_s
 
 // Глобальные переменные:
 HINSTANCE hInst;                                // текущий экземпляр
@@ -24,6 +26,7 @@ ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
 LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
+//jfhgurh
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     _In_opt_ HINSTANCE hPrevInstance,
