@@ -13,6 +13,8 @@
 #include <Windows.h>
 
 #define MAX_LOADSTRING 100
+//printf
+//skanf_s
 
 // Глобальные переменные:
 HINSTANCE hInst;                                // текущий экземпляр
