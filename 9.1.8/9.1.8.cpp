@@ -1,6 +1,6 @@
 ﻿// 8.2.cpp : Определяет точку входа для приложения.
 //пррола
-
+//help
 #define _CRT_SECURE_NO_WARNINGS
 #include "framework.h"
 #include "9.1.8.h"
