@@ -11,6 +11,7 @@
 //#include "Game.h"
 #include <stdio.h>
 #include <Windows.h>
+//ркпргрпыошо
 
 #define MAX_LOADSTRING 100
 //printf
